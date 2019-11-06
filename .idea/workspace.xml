@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="740592c2-eb9c-4492-8bdf-c2827549be99" name="Default Changelist" comment="" />
+    <list default="true" id="740592c2-eb9c-4492-8bdf-c2827549be99" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +30,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SBfEmtM8iJrgFVFhgp9bhQfzpD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -106,7 +111,7 @@
       <workItem from="1571041809408" duration="532000" />
       <workItem from="1572778784254" duration="3760000" />
       <workItem from="1572960994657" duration="3871000" />
-      <workItem from="1573025689268" duration="1066000" />
+      <workItem from="1573025689268" duration="1464000" />
     </task>
     <servers />
   </component>
@@ -123,5 +128,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
